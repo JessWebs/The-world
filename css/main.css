@@ -1,0 +1,23 @@
+body {
+    background-image: url(../img/estrellas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title, p {
+    color: whitesmoke;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
